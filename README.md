@@ -10,10 +10,6 @@ The project follows a 3-phase analytics pipeline:
 
 A dashboard preview is included alongside the analysis assets.
 
-> **Data source:** The exact source/citation for `tracks.csv` is not documented in the
-> supplied project files. Add the original dataset name and source URL here before
-> publishing the repository. Do not claim a source that cannot be verified.
-
 ---
 
 ## Project structure
