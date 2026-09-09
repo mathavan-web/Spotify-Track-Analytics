@@ -1,0 +1,42 @@
+# ---- Data files (too large for GitHub; regenerate from source) ----
+# Keep large/local datasets out of version control.
+data/raw/*.csv
+data/processed/*.csv
+*.db
+*.sqlite
+*.sqlite3
+spotify.db
+spotify_cleaned.csv
+tracks.csv
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+
+# ---- Virtual environments ----
+venv/
+.venv/
+env/
+ENV/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Power BI ----
+# Uncomment if you do not want to commit the Power BI report binary.
+# *.pbix
